@@ -1,0 +1,23 @@
+{
+  "name": "ledc",
+  "version": "1.0.0",
+  "description": "This is the website for the London Economic Development Centre",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing, testing, testing"
+  },
+  "keywords": [
+    "grunt",
+    "automation",
+    "testing"
+  ],
+  "author": "JACK_T",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony",
+    "grunt-contrib-watch": "^1.0.0",
+    "save": "^2.3.2"
+  }
+}
